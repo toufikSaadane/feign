@@ -1,0 +1,3 @@
+server:
+  api:
+    url: https://financialmodelingprep.com/api/v3/search?query=AA&apikey=fGbxnVni2Mxe9kYlUQSrvv1u9bHT9ojJ
